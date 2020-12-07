@@ -1,0 +1,24 @@
+body{
+    background-color: red;
+    text-align: center;
+}
+#mango{
+background-color: white;
+}
+#snake{
+background-color: white;
+}
+#cashew{
+background-color: white;
+}
+#rose{
+background-color: white;
+}
+div{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.img{
+    margin-left: 20px;
+    margin-right: 20px;
+}
